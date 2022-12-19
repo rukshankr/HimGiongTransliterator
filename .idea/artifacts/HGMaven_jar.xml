@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HGMaven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HGMaven_jar</output-path>
+    <root id="archive" name="HGMaven.jar">
+      <element id="module-output" name="TextToHimGiong" />
+    </root>
+  </artifact>
+</component>
